@@ -1,0 +1,9 @@
+// todo list
+
+// STATISTIQUES
+[] faire en sorte que les statistiques s'affichent à la function
+[] faire un résumé des points et un aperçu des erreurs
+
+// Mollie
+
+[] module mollie permettant de commander l'app et de recevoir automatiquement un numéro d'accès par email
