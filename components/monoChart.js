@@ -2,7 +2,7 @@ const chartTemplate = document.createElement('template');
 chartTemplate.innerHTML = `
 <div style="padding-top:30px;flex-direction:column;height:100vh;width:100%;display:flex !important; align-items:center;/*justify-content:center;*/">
 <div><h1>Vos statistiques</h1></div>
-<div style="width: 80%;">
+<div style="width: 80%;height:80vh;">
     <canvas id="myChart" style=""></canvas>
 </div>
 </div>

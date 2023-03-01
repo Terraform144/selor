@@ -3,7 +3,8 @@
 // STATISTIQUES
 [] faire en sorte que les statistiques s'affichent à la function
 [] faire un résumé des points et un aperçu des erreurs
+[] à la validation du qcm dans validateQCM, enregistrer les points dans stats 
+    et num des key ok et keys error
 
-// Mollie
-
+// MOLLIE
 [] module mollie permettant de commander l'app et de recevoir automatiquement un numéro d'accès par email
